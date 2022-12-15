@@ -1,2 +1,2 @@
 # monty
-The monty project
+The monty project.
